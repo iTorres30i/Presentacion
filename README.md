@@ -2,14 +2,14 @@
 
 <p align="center">
   🎓 Estudiante de la Universidad Javeriana <br>
-  📍 Nací en 2006 — Bogotá, Colombia 🇨🇴
+  📍 Nací en 2006 — Bogotá, Colombia
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-✨ Soy una persona activa, curiosa y con buena energía para todo lo que hago.  
+Soy una persona activa, curiosa y con buena energía para todo lo que hago.  
 Me gusta disfrutar cualquier momento en el que este.
 
 - 🏐 Amante del **voleibol**
@@ -21,17 +21,17 @@ Me gusta disfrutar cualquier momento en el que este.
 
 ---
 
-## 💪 Habilidades
+## Habilidades
 
-🧠 No solo estudio, también me esfuerzo por crecer como persona:
+No solo estudio, también me esfuerzo por crecer como persona:
 
-- ✅ Comprometido con todo lo que hago  
-- 🤝 Trabajo en equipo  
-- 🕒 Responsable y cumplido  
+- Comprometido con todo lo que hago  
+- Trabajo en equipo  
+- Responsable y cumplido  
 
 ---
 
-## 🌟 Un poco más de mí
+## Un poco más de mí
   
 
 Me gusta mantener un equilibrio entre disciplina, diversión y descanso.  
